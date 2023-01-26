@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J84",
+  "range": "'スポットデータ'!A1:J83",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,18 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "2023/01/26 12:00:00",
+      "オフィス",
+      "https://laid-backdesign.com/images/about.jpg",
+      "34.59972093",
+      "133.7659698",
+      "LAID-BACK DESIGN",
+      "LAID-BACK DESIGNのデザインオフィスです",
+      "",
+      "",
+      "https://laid-backdesign.com/"
     ],
     [
       "2022/05/11 14:46:34",
